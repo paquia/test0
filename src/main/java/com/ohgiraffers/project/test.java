@@ -1,4 +1,4 @@
 package com.ohgiraffers.project;
 
-public class test `{
+public class test {
 }
